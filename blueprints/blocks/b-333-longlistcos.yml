@@ -1,0 +1,31 @@
+name: "333: Langur COS listi"
+# name: "261G: Mynd í Glósudálki"
+icon: list-bullet
+# preview: image
+
+
+tabs:
+
+##
+##
+##
+##
+##          Almennt (Tab)
+##
+##
+##
+##
+
+  general:
+    label: Grunnstillingar
+
+    fields:
+
+
+      info:
+        label: false
+        type: info
+        theme: none # info (default blue), positive (green), negative (red)
+        text: |
+          Hér birtist einhver snilldarlisti. 
+

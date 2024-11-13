@@ -1,0 +1,11 @@
+{
+	"name": "white/longlist",
+	"authors": [
+		{
+		  "name": "White IS Ltd.",
+		  "email": "white@white.is"
+		}
+	  ],
+	"version": "24.5.6",
+	"license": "Yes. We own this."
+}

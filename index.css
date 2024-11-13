@@ -1,0 +1,33 @@
+
+.k-block-container-type-b-333-longlist { 
+	background-color: #036; 
+	color: #fff; 
+	border-right: 1rem solid #fff; 
+	padding-top: 4rem; 
+	padding-bottom: 3rem;
+	
+}
+.k-block-container-type-b-333-longlist .k-block { 
+	max-width: 24rem; 
+	margin: 0 auto; 
+}
+.k-block-container-type-b-333-longlist .k-block-title { 
+	
+	text-align: center;
+	font-size: 2rem; 
+}
+.k-block-container-type-b-333-longlist::after { 
+	position: absolute; 
+	top: 1rem; 
+	right: 2rem; 
+	 display: inline; 
+	content: " Longlistt COS"; 
+	content: " URL"; 
+	opacity: .39; 
+	line-height: 1; 
+	font-size: 1rem; 
+	font-weight: bold;
+	color: white;
+}
+
+
