@@ -1,6 +1,7 @@
 
 <style class="longlist-css herm-container-css">
 
+
   :root { 
 
   --longlist-element-a-current-base: var(--brandcolor);   
@@ -32,13 +33,15 @@
   @media (min-width: 1665px)  {
     .eherm-container .content { columns: 6; }
   }
+  
+  <?php /*
   @media (min-width: 1785px)  {
     .eherm-container .content { columns: 7; }
   }
   @media (min-width: 1905px)  {
     .eherm-container .content { columns: 8; }
   }
-
+*/ ?>
 
 
   .longlist .element { }
